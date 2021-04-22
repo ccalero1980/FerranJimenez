@@ -1,0 +1,19 @@
+./conf_inicial_straight10  : file name
+./       : output dir
+9565	     : number of cycles
+0.006568       : timestep
+0.004974       : bending modulus
+1.000000       : mass filament
+0.994716       : viscosity
+1.522470       : gamma filament
+0.3           : hydr radius (in bond lengths)
+1.0e-8        : constraint tolerance
+1000	     : steps per cycle
+0.000000       : Bx
+0.000000       : Bz
+0.001000       : freq_field 
+0.037003       : moment_magnetic_filament
+0.001263       : mu0 permeability vacuum 
+0.000001       : gravetat 
+0       : Oseen
+1       : Blake
